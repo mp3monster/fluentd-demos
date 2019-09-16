@@ -3,6 +3,6 @@
         "first": "Phil",
         "Last": "Wilkins"
     },
-    "Event": "phil did something!",
-    "Language": "English"
+    "event": "phil did something!",
+    "language": "English"
 }
